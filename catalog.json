@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Siemens",
+    "quantity": 24,
+    "price": 100,
+    "id": "Fc0erum8j"
+  },
+  {
+    "name": "Sony",
+    "quantity": 10,
+    "price": 800,
+    "id": "Q6QOCMh1J"
+  },
+  {
+    "name": "Xiomi",
+    "quantity": 5,
+    "price": 250,
+    "id": "LtRCMG1nU"
+  },
+  {
+    "name": "Samsung",
+    "quantity": 5,
+    "price": 900,
+    "id": "g3ZvWsQih"
+  },
+  {
+    "name": "Iphone",
+    "quantity": 10,
+    "price": 1100,
+    "id": "ZFjEkrwRU"
+  },
+  {
+    "name": "Nokia",
+    "quantity": 47,
+    "price": 50,
+    "id": "_BPknbBe7"
+  }
+]
